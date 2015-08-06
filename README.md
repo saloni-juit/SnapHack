@@ -1,0 +1,2 @@
+# SnapHack
+Hackathon website
