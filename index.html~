@@ -56,7 +56,7 @@
                     <li>
                         <a class="page-scroll" href="#about">About</a>
                     </li>
-
+                    
                     <li>
                         <a class="page-scroll" href="#services" id="HacksIntro">Hacks</a>
                     </li>
@@ -82,7 +82,7 @@
                     <h1>What the HACK
                        <!--  <img src="img/idea.gif" width="56px" style="margin-top:-20px;"/> -->
                     </h1>
-
+                
                 <hr>
                 <p class="primary">
                   <span class="s1">We are SnapHack.</span>
@@ -182,7 +182,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category 2
+                                    Category 2 
                                 </div>
                                 <div class="project-name">
                                     Project Name 2
@@ -250,7 +250,7 @@
                             </div>
                         </div>
                     </a>
-                </div>
+                </div> 
             </div>
         </div>
     </section>
@@ -267,7 +267,7 @@
                     <div class="standard-margin align-center less-margin-bottom">
                         <a href="#" class="btn btn-primary btn-xl wow tada" style="visibility: visible; animation-name: tada; -webkit-animation-name: tada;">Participate in Challenge</a>
 
-                        <a href="#" class="btn btn-primary btn-xl wow tada" style="visibility: visible; animation-name: tada; -webkit-animation-name: tada;">View Current Participants</a>
+                        <a href="#" class="btn btn-primary btn-xl wow tada" style="visibility: visible; animation-name: tada; -webkit-animation-name: tada;">View Current Participants</a>  
                     </div>
                 </div>
             </div>
@@ -320,7 +320,6 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
-    <script src="js/mytour.js"></script>
 
 </body>
 
