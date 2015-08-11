@@ -51,6 +51,19 @@ p {
     line-height: 1.5;
 }
 
+#impress p{
+    font-size: 70px;
+    color:#fff;
+}
+/*
+#impress p:first-child{
+    color:#f05f40;
+}*/
+
+/*#impress p:nth-child(2){
+    color:;
+}*/
+
 .bg-primary {
     background-color: #f05f40;
 }
@@ -567,4 +580,14 @@ body {
 .form-idea input[type=submit]:hover,
 .form-idea input[type=button]:hover{
 background: #394D61;
+}
+
+/*.submit-idea{
+    background-color: #5C246E;
+}*/
+
+#submitForm{
+    background-color: #fff;
+    color:#000;
+    padding-top: 25px;
 }
